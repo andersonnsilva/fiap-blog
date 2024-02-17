@@ -7,8 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-constants.js
-
 node_modules
 dist
 dist-ssr

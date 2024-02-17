@@ -1,0 +1,2 @@
+export const spaceId = "jddd91mq3dgj"; //Space Id que tenho que recuperar do contentful
+export const accessToken = "SdS_7GCAiuhFC-vWt4JDXI0KKXPq7YMau2NlhwW4i1U"; //Content Delivery API - access token que preciso recuperar do contentful
