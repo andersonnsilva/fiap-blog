@@ -50,8 +50,12 @@ export const Home = () => {
                                 </div>
                             </div>
                         ))}
-                        
-                        <a href="/allposts" className='btn btn-primary'>Ver todos os posts</a>
+                        <div className="mt-1">
+                            <Link to="/allposts" className="btn btn-primary">
+                                Ver todos os posts
+                            </Link>
+                        </div>
+                        {/* <a href="" className='btn btn-primary'></a> */}
                     </main>
                 
                     <aside className="col-md-4">
